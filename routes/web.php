@@ -12,7 +12,32 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+Route::get('/causes', function () {
+    return view('causes');
+});
+Route::get('/contact', function () {
+    return view('contact');
+});
+Route::get('/elements', function () {
+    return view('elements');
+});
+Route::get('/news', function () {
+    return view('news');
+});
+Route::get('/give', function () {
+    return view('give');
+});
+Route::get('/portfolio', function () {
+    return view('portfolio');
+});
+Route::get('/single-causes', function () {
+    return view('single-causes');
 });
 
 Auth::routes();
