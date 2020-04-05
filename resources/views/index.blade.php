@@ -14,7 +14,7 @@
                         <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
                             <header class="entry-header">
                                 <h1>Donate</h1>
-                                <h4>4 a better world</h4>
+                                <h4>for a better world</h4>
                             </header><!-- .entry-header -->
 
                             <div class="entry-content mt-4">
@@ -40,7 +40,7 @@
                         <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
                             <header class="entry-header">
                                 <h1>Donate</h1>
-                                <h4>4 a better world</h4>
+                                <h4>for a better world</h4>
                             </header><!-- .entry-header -->
 
                             <div class="entry-content mt-4">
@@ -66,7 +66,7 @@
                         <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
                             <header class="entry-header">
                                 <h1>Donate</h1>
-                                <h4>4 a better world</h4>
+                                <h4>for a better world</h4>
                             </header><!-- .entry-header -->
 
                             <div class="entry-content mt-4">
@@ -92,11 +92,13 @@
 
     <!-- Add Arrows -->
     <div class="swiper-button-next flex justify-content-center align-items-center">
-        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1171 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"/></svg></span>
+        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
+                <path d="M1171 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z" /></svg></span>
     </div>
 
     <div class="swiper-button-prev flex justify-content-center align-items-center">
-        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z"/></svg></span>
+        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
+                <path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z" /></svg></span>
     </div>
 </div><!-- .hero-slider -->
 
@@ -283,7 +285,6 @@
                     <div class="section-heading">
                         <h2 class="entry-title">Featured Cause</h2>
                     </div><!-- .section-heading -->
-
                     <div class="cause-wrap d-flex flex-wrap justify-content-between">
                         <figure class="m-0">
                             <img src="images/featured-causes.jpg" alt="">
@@ -307,7 +308,7 @@
                             </div><!-- .entry-content -->
 
                             <div class="entry-footer mt-5">
-                                <a href="#" class="btn gradient-bg mr-2 donate-btn">Donate Now</a>
+                                <a href="#" class="btn gradient-bg mr-2">Donate Now</a>
                             </div><!-- .entry-footer -->
                         </div><!-- .cause-content-wrap -->
 
@@ -331,6 +332,7 @@
                             </div><!-- .fund-raised-details -->
                         </div><!-- .fund-raised -->
                     </div><!-- .cause-wrap -->
+
                 </div><!-- .featured-cause -->
             </div><!-- .col -->
         </div><!-- .row -->
@@ -608,11 +610,13 @@
 
                 <!-- Add Arrows -->
                 <div class="swiper-button-next flex justify-content-center align-items-center">
-                    <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1171 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"/></svg></span>
+                    <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M1171 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z" /></svg></span>
                 </div>
 
                 <div class="swiper-button-prev flex justify-content-center align-items-center">
-                    <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z"/></svg></span>
+                    <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z" /></svg></span>
                 </div>
             </div><!-- .col -->
         </div><!-- .row -->
