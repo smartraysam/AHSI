@@ -80,9 +80,9 @@
         <script type='text/javascript' src="{{ asset('js/bootstrap.bundle.min.js') }}"></script>
         <script type='text/javascript' src="{{ asset('js/adminlte.min.js') }}"></script>
         <script type='text/javascript' src="{{ asset('js/Chart.min.js') }}"></script>
-        <script type='text/javascript' src="{{ asset('js/sparkline.js') }}"></script>
+        <!-- <script type='text/javascript' src="{{ asset('js/sparkline.js') }}"></script>
         <script type='text/javascript' src="{{ asset('js/jqvmap/jquery.vmap.min.js') }}"></script>
-        <script type='text/javascript' src="{{ asset('js/jqvmap/maps/jquery.vmap.usa.js') }}"></script>
+        <script type='text/javascript' src="{{ asset('js/jqvmap/maps/jquery.vmap.usa.js') }}"></script> -->
 
         <script type='text/javascript' src="{{ asset('js/dashboard.js') }}"></script>
         <script type='text/javascript' src="{{ asset('js/demo.js') }}"></script>
